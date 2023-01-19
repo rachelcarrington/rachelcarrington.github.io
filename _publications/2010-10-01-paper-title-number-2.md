@@ -6,7 +6,8 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2023-01-13
 venue: 'arXiv Preprint'
 paperurl: 'https://arxiv.org/pdf/2301.05636.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Rachel Carrington and Paul Fearnhead. (2023). &quot;mproving Power by Conditioning on Less in Post-selection Inference for Changepoints.&quot; 
+<i>arXiv preprint arXiv:2301.05636</i>.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
