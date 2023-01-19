@@ -1,17 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Demonstrator"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "University of Nottingham, School of Mathematical Sciences"
+date: 2017-10-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Assisting with undergraduate and Masters level problems classes and computer classes, 2017-2019.
 
 Heading 1
 ======
+
 
 Heading 2
 ======
