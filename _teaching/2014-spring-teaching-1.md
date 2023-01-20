@@ -10,6 +10,18 @@ location: "City, Country"
 
 Assisting with undergraduate and Masters level problems classes and computer classes, 2017-2019.
 
+Modules:
+* Probability (1st year)
+* Statistics (1st year)
+* Statistical Models and Methods (2nd year)
+* Fundamentals of Statistics (Masters)
+* Statistical Machine Learning (Masters)
+
+Leading tutorials for small groups of students.
+
+Modules:
+* Probability Models and Methods (2nd year)
+
 Heading 1
 ======
 
