@@ -21,13 +21,3 @@ Leading tutorials for small groups of students.
 
 Modules:
 * Probability Models and Methods (2nd year)
-
-Heading 1
-======
-
-
-Heading 2
-======
-
-Heading 3
-======
