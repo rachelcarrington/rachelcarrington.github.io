@@ -1,3 +1,12 @@
+---
+permalink: /papers/
+title: "Publications"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /papers.html
+---
+
 [Improving Power by Conditioning on Less in Post-selection Inference for Changepoints](https://arxiv.org/pdf/2301.05636.pdf).
 Rachel Carrington and Paul Fearnhead. arXiv preprint arXiv:2301.05636, (2023).
 
