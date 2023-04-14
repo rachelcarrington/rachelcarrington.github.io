@@ -15,3 +15,10 @@ Previously I was a Research Fellow at the University of Nottingham. My research 
 During my PhD, which was also at the University of Nottingham, I worked on language models and word embeddings.
 
 Contact: r.j.carrington (at) lancaster.ac.uk
+
+## Recent Publications & Preprints
+
+Improving Power by Conditioning on Less in Post-selection Inference for Changepoints. Rachel Carrington and Paul Fearnhead, arXiv preprint (2023)
+https://arxiv.org/pdf/2301.05636.pdf
+
+Invariance and identifiability issues for word embeddings. Rachel Carrington, Karthik Bharath and Simon Preston, Advances in Neural Information Processing Systems (NEURIPS). 32 (2019).
