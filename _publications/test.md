@@ -1,10 +1,9 @@
 ---
-title: "Improving Power by Conditioning on Less in Post-selection Inference for Changepoints"
+title: "Test Paper"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 
 date: 2023-01-13
-venue: 'arXiv Preprint'
 paperurl: 'https://arxiv.org/pdf/2301.05636.pdf'
 ---
 
