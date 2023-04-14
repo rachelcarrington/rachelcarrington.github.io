@@ -2,7 +2,7 @@
 title: "Test Paper"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 
+excerpt: This is an excerpt.
 date: 2023-01-13
 paperurl: 'https://arxiv.org/pdf/2301.05636.pdf'
 ---
