@@ -13,3 +13,4 @@ I have assisted with problems classes and computer classes for the following mod
 * G12SMM Statistical Models and Methods
 * G14SML Statistical Machine Learning
 * G14FOS Fundamentals of Statistics
+ 
