@@ -19,12 +19,3 @@ Contact: r.j.carrington (at) lancaster.ac.uk
 
 **Invariance and identifiability issues for word embeddings**. Rachel Carrington, Karthik Bharath and Simon Preston. *Advances in Neural Information Processing Systems (NEURIPS) 32* (2019).
 [link](https://proceedings.neurips.cc/paper/2019/file/44885837c518b06e3f98b41ab8cedc0f-Paper.pdf)
-
-## Teaching Experience
-
-I have assisted with problems classes and computer classes for the following modules:
-* G11PRB Probability
-* G11STA Statistics
-* G12SMM Statistical Models and Methods
-* G14SML Statistical Machine Learning
-* G14FOS Fundamentals of Statistics
