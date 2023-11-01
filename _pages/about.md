@@ -12,9 +12,9 @@ I am a Senior Research Associate in Statistics at Lancaster University. My curre
 
 Contact: r.j.carrington (at) lancaster.ac.uk
 
-## Recent Publications & Preprints
+## Recent Publications
 
-**Improving Power by Conditioning on Less in Post-selection Inference for Changepoints**. Rachel Carrington and Paul Fearnhead. *arXiv preprint* (2023).
+**Improving Power by Conditioning on Less in Post-selection Inference for Changepoints**. Rachel Carrington and Paul Fearnhead. Under review. *arXiv preprint* (2023).
 [link](https://arxiv.org/pdf/2301.05636.pdf)
 
 **Invariance and identifiability issues for word embeddings**. Rachel Carrington, Karthik Bharath and Simon Preston. *Advances in Neural Information Processing Systems (NEURIPS) 32* (2019).
