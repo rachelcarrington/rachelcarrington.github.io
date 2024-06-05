@@ -14,10 +14,12 @@ Contact: r.j.carrington (at) lancaster.ac.uk
 
 ## Recent Publications
 
+**Post-selection inference for quantifying uncertainty in changes in variance**. Rachel Carrington and Paul Fearnhead. Under review. *arXiv preprint* (2024). [link](https://arxiv.org/abs/2405.15670)
+
 **Urban mapping in Dar es Salaam using AJIVE**. Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston, and David Sirl. *arXiv preprint* (2024). [link](https://arxiv.org/abs/2403.09014)
 
 **Improving Power by Conditioning on Less in Post-selection Inference for Changepoints**. Rachel Carrington and Paul Fearnhead. Under review. *arXiv preprint* (2023).
-[link](https://arxiv.org/pdf/2301.05636)
+[link](https://arxiv.org/abs/2301.05636)
 
 **Invariance and identifiability issues for word embeddings**. Rachel Carrington, Karthik Bharath and Simon Preston. *Advances in Neural Information Processing Systems (NEURIPS) 32* (2019).
 [link](https://proceedings.neurips.cc/paper/2019/file/44885837c518b06e3f98b41ab8cedc0f-Paper.pdf)
