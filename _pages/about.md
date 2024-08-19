@@ -22,7 +22,7 @@ Contact: r.j.carrington (at) lancaster.ac.uk
 
 **Post-selection inference for quantifying uncertainty in changes in variance**. Rachel Carrington and Paul Fearnhead. Under review. *arXiv preprint* (2024). [link](https://arxiv.org/abs/2405.15670)
 
-**Urban mapping in Dar es Salaam using AJIVE**. Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston, and David Sirl. *arXiv preprint* (2024). [link](https://arxiv.org/abs/2403.09014)
+**Urban mapping in Dar es Salaam using AJIVE**. Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston, and David Sirl. Under review. *arXiv preprint* (2024). [link](https://arxiv.org/abs/2403.09014)
 
 **Improving Power by Conditioning on Less in Post-selection Inference for Changepoints**. Rachel Carrington and Paul Fearnhead. Under review. *arXiv preprint* (2023).
 [link](https://arxiv.org/abs/2301.05636)
