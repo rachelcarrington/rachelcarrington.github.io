@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Associate in Statistics at Lancaster University. My current research focuses on post-selection inference for changepoint models. Previously I have worked as a Research Fellow at the University of Nottingham, working on combining high-dimensional data from different sourcces to map urban deprivation in Tanzania. During my PhD, which was also at the University of Nottingham, I worked on language models and word embeddings.
+I am a Senior Research Associate in Statistics at Lancaster University. My current research focuses on post-selection inference for changepoint models. I have also worked as a Research Fellow at the University of Nottingham, on combining high-dimensional data from different sourcces to map urban deprivation in Tanzania. My PhD, which was also at the University of Nottingham, focused on language models and word embeddings.
 
 Contact: r.j.carrington (at) lancaster.ac.uk
+
+## Research Interests
+- Changepoints
+- Spatiotemporal data
+- Selective inference
+- High-dimensional data
 
 ## Recent Publications
 
