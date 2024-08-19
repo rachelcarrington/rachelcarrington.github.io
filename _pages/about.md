@@ -18,7 +18,7 @@ Contact: r.j.carrington (at) lancaster.ac.uk
 - Selective inference
 - High-dimensional data
 
-## Recent Publications
+## Recent Publications & Preprints
 
 **Post-selection inference for quantifying uncertainty in changes in variance**. Rachel Carrington and Paul Fearnhead. Under review. *arXiv preprint* (2024). [link](https://arxiv.org/abs/2405.15670)
 
