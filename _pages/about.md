@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Associate in Statistics at Lancaster University. My current research focuses on post-selection inference for changepoint models. I have also worked as a Research Fellow at the University of Nottingham, on combining high-dimensional data from different sourcces to map urban deprivation in Tanzania. My PhD, which was also at the University of Nottingham, focused on language models and word embeddings.
+I am currently a Senior Research Associate in Statistics at Lancaster University. My current research focuses on post-selection inference for changepoint models. 
+
+I obtained my MMath and PhD from the University of Nottingham, the latter under the supervision of Dr. Karthik Bharath and Dr. Simon Preston. My PhD thesis focused on word embeddings used to model language. I investigated several aspects of this topic, including addressing the non-identifiability of sets of word embeddings, and considering methods for modelling language change across time. I followed this with a postdoc at the University of Nottingham, where I worked on combining high-dimensional, non-traditional forms of data to map urban deprivation in Tanzania.
 
 Contact: r.j.carrington (at) lancaster.ac.uk
 
@@ -18,7 +20,7 @@ Contact: r.j.carrington (at) lancaster.ac.uk
 - Selective inference
 - High-dimensional data
 
-## Recent Publications & Preprints
+## Publications & Preprints
 
 **Post-selection inference for quantifying uncertainty in changes in variance**. Rachel Carrington and Paul Fearnhead. Under review. *arXiv preprint* (2024). [link](https://arxiv.org/abs/2405.15670)
 
