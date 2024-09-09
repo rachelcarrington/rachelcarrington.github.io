@@ -3,9 +3,9 @@ permalink: /research/
 title: "Research"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /papers.html
 ---
+
+{% include base_path %}
 
 ### Post-selection inference for changepoints
 
