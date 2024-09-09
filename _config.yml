@@ -182,6 +182,16 @@ kramdown:
 
 # Defaults
 defaults:
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
   # _posts
   - scope:
       path: ""
