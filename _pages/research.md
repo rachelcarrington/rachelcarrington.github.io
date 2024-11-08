@@ -20,6 +20,8 @@ In this paper, we consider the univariate piecewise constant mean model. We exte
 
 The piecewise constant variable model is more challenging, as it is not possible in many cases to calculate exact p-values. We develop here two methods for constructing p-values for detected changes in variance, which are applicable to different types of changepoint algorithms. When the p-values cannot be explicitly calculated, we make use of Gaussian process methods to approximate them.
 
+[GitHub package related to these two papers](https://github.com/rachelcarrington/changepointsPSI).
+
 ### Urban mapping using AJIVE
 
 [Urban mapping in Dar es Salaam using AJIVE](https://arxiv.org/pdf/2403.09014). Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston and David Sirl. _arXiv preprint arXiv:2403.09014_, (2024).
