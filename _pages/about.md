@@ -15,10 +15,12 @@ I obtained my MMath and PhD from the University of Nottingham, the latter under 
 Contact: r.j.carrington (at) lancaster.ac.uk
 
 ## Research Interests
-- Changepoints
-- Spatiotemporal data
-- Selective inference
 - High-dimensional data
+- Spatiotemporal data
+- Changepoint detection
+- Post-selection inference
+
+For more details about my research, click on the "Research" tab above.
 
 ## Publications & Preprints
 
