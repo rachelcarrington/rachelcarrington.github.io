@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Senior Research Associate in Statistics at Lancaster University. My current research focuses on post-selection inference for changepoint models. 
 
-I obtained my MMath and PhD from the University of Nottingham, the latter under the supervision of Dr. Karthik Bharath and Dr. Simon Preston. My PhD thesis focused on word embeddings used to model language. I investigated several aspects of this topic, including addressing the non-identifiability of sets of word embeddings, and considering methods for modelling language change across time. I followed this with a postdoc at the University of Nottingham, where I worked on combining high-dimensional, non-traditional forms of data to map urban deprivation in Tanzania.
+I obtained my MMath and PhD from the University of Nottingham, the latter under the supervision of Karthik Bharath and Simon Preston. My PhD thesis focused on word embeddings used to model language. I investigated several aspects of this topic, including addressing the non-identifiability of sets of word embeddings, and considering methods for modelling language change across time. I followed this with a postdoc at the University of Nottingham, where I worked on combining high-dimensional, non-traditional forms of data to map urban deprivation in Tanzania.
 
 Contact: r.j.carrington (at) lancaster.ac.uk
 
