@@ -28,8 +28,7 @@ For more details about my research, click on the "Research" tab above.
 
 **Urban mapping in Dar es Salaam using AJIVE**. Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston, and David Sirl. Under review. *arXiv preprint*. [link](https://arxiv.org/abs/2403.09014)
 
-**Improving Power by Conditioning on Less in Post-selection Inference for Changepoints**. Rachel Carrington and Paul Fearnhead (2024+). Accepted for publication in Statistics and Computing. *arXiv preprint*.
-[link](https://arxiv.org/abs/2301.05636)
+**Improving Power by Conditioning on Less in Post-selection Inference for Changepoints**. Rachel Carrington and Paul Fearnhead (2025). *Statistics and Computing* 35(8). [link](https://link.springer.com/article/10.1007/s11222-024-10542-1)
 
 **Invariance and identifiability issues for word embeddings**. Rachel Carrington, Karthik Bharath and Simon Preston (2019). *Advances in Neural Information Processing Systems (NEURIPS) 32*.
 [link](https://proceedings.neurips.cc/paper/2019/file/44885837c518b06e3f98b41ab8cedc0f-Paper.pdf)
