@@ -11,8 +11,8 @@ redirect_from:
 
 Uncertainty quantification in detected changepoints is an important problem: given a set of time series (or other ordered) data, we apply a changepoint algorithm (for example binary segmentation or PELT) to detect changes. We then want to know: how certain can we be that the detected changes are real? Since we have already used the data to estimate the locations of the change, re-using the same data to calculate uncertainty will introduce bias, and so we need to use post-selection inference to calculate uncertainty conditional on the locations of estimated changes. However, it is challenging to do this in ways that are both accurate and computationally efficient.
 
-[Improving Power by Conditioning on Less in Post-selection Inference for Changepoints](https://arxiv.org/pdf/2301.05636.pdf).
-Rachel Carrington and Paul Fearnhead. _arXiv preprint arXiv:2301.05636_, (2023).
+[Improving Power by Conditioning on Less in Post-selection Inference for Changepoints](https://link.springer.com/article/10.1007/s11222-024-10542-1).
+Rachel Carrington and Paul Fearnhead. _Statistics and Computing_ 35(8), (2025).
 
 In this paper, we consider the univariate piecewise constant mean model. We extend existing methods by showing how we can use Monte Carlo sampling to obtain p-values for detected changepoints that have greater power than those generated using existing methods, whilst still being uniform under the null hypothesis.
 
