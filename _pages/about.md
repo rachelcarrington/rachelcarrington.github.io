@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Associate in Statistics at the University of Bath. 
+I am currently a Research Associate in Statistics at the University of Bath, where I am part of the Centre of Excellence in Water-Based Early Warning Systems for Health Protection (CWBE).
 
-Previously, I worked at Lancaster University on post-selection inference for changepoint models. 
+Previously, I worked at Lancaster University on post-selection inference for changepoint models. This involved adapting existing methods to obtain greater power in detecting changes, and developing methods for post-selection inference in the piecewise constant variable model.
 
 I obtained my MMath and PhD from the University of Nottingham, the latter under the supervision of Karthik Bharath and Simon Preston. My PhD thesis focused on word embeddings used to model language. I investigated several aspects of this topic, including addressing the non-identifiability of sets of word embeddings, and considering methods for modelling language change across time. I followed this with a postdoc at the University of Nottingham, where I worked on combining high-dimensional, non-traditional forms of data to map urban deprivation in Tanzania.
 
@@ -22,7 +22,7 @@ Contact: rjc204 (at) bath.ac.uk
 - Changepoint detection
 - Post-selection inference
 
-For more details about my research, click on the "Research" tab above.
+For more details about my research and publications, click on the "Research" tab above.
 
 ## Publications & Preprints
 
