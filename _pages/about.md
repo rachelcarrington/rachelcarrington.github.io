@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Associate in Statistics at the University of Bath, where I am part of the Centre of Excellence in Water-Based Early Warning Systems for Health Protection (CWBE).
+I am currently a Research Associate in Statistics at the University of Bath, where I am part of the [Centre of Excellence in Water-Based Early Warning Systems for Health Protection (CWBE)](https://cwbe.ac.uk/).
 
 Previously, I worked with Paul Fearnhead at Lancaster University on post-selection inference for changepoint models. This involved adapting existing methods to obtain greater power in detecting changes, and developing methods for post-selection inference in the piecewise constant variable model.
 
