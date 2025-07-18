@@ -31,8 +31,10 @@ For more details about my research and publications, click on the "Research" tab
 **Invariance and identifiability issues for word embeddings**. Rachel Carrington, Karthik Bharath and Simon Preston (2019). *Advances in Neural Information Processing Systems (NEURIPS) 32*.
 [link](https://proceedings.neurips.cc/paper/2019/file/44885837c518b06e3f98b41ab8cedc0f-Paper.pdf)
 
+**Urban mapping in Dar es Salaam using AJIVE**. Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston, and David Sirl. To appear in *Journal of the Royal Statistical Society: Series C -- Applied Statistics*. [link to arXiv version](https://arxiv.org/abs/2403.09014)
+
 ## Preprints
 
 **Post-selection inference for quantifying uncertainty in changes in variance**. Rachel Carrington and Paul Fearnhead. Under review. *arXiv preprint*. [link](https://arxiv.org/abs/2405.15670)
 
-**Urban mapping in Dar es Salaam using AJIVE**. Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston, and David Sirl. Under review. *arXiv preprint*. [link](https://arxiv.org/abs/2403.09014)
+
