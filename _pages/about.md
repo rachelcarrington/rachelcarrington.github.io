@@ -26,9 +26,9 @@ For more details about my research and publications, click on the "Research" tab
 
 ## Publications
 
-**Urban mapping in Dar es Salaam using AJIVE**. Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston, and David Sirl. To appear in *Journal of the Royal Statistical Society: Series C -- Applied Statistics*. [link to arXiv version](https://arxiv.org/abs/2403.09014)
+**Urban mapping in Dar es Salaam using Angle-Based Joint and Individual Variation Explained**. Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston, and David Sirl (2025). *Journal of the Royal Statistical Society: Series C -- Applied Statistics*. [link](https://academic.oup.com/jrsssc/advance-article/doi/10.1093/jrsssc/qlaf043/8236692)
 
-**Improving Power by Conditioning on Less in Post-selection Inference for Changepoints**. Rachel Carrington and Paul Fearnhead (2025). *Statistics and Computing* 35(8). [link](https://link.springer.com/article/10.1007/s11222-024-10542-1)
+**Improving power by conditioning on less in post-selection inference for changepoints**. Rachel Carrington and Paul Fearnhead (2025). *Statistics and Computing* 35(8). [link](https://link.springer.com/article/10.1007/s11222-024-10542-1)
 
 **Invariance and identifiability issues for word embeddings**. Rachel Carrington, Karthik Bharath and Simon Preston (2019). *Advances in Neural Information Processing Systems (NEURIPS) 32*.
 [link](https://proceedings.neurips.cc/paper/2019/file/44885837c518b06e3f98b41ab8cedc0f-Paper.pdf)
