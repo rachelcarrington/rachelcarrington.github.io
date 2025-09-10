@@ -7,7 +7,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Post-selection inference for changepoints
+## Post-selection inference for changepoints
 
 Uncertainty quantification in detected changepoints is an important problem: given a set of time series (or other ordered) data, we apply a changepoint algorithm (for example binary segmentation or PELT) to detect changes. We then want to know: how certain can we be that the detected changes are real? Since we have already used the data to estimate the locations of the change, re-using the same data to calculate uncertainty will introduce bias, and so we need to use post-selection inference to calculate uncertainty conditional on the locations of estimated changes. However, it is challenging to do this in ways that are both accurate and computationally efficient.
 
@@ -22,13 +22,13 @@ The piecewise constant variable model is more challenging, as it is not possible
 
 [GitHub package related to these two papers](https://github.com/rachelcarrington/changepointsPSI).
 
-### Urban mapping using AJIVE
+## Urban mapping using AJIVE
 
-[Urban mapping in Dar es Salaam using AJIVE](https://arxiv.org/pdf/2403.09014). Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston and David Sirl. _arXiv preprint arXiv:2403.09014_, (2024).
+[Urban mapping in Dar es Salaam using Angle-Based Joint and Individual Variation Explained](https://academic.oup.com/jrsssc/advance-article/doi/10.1093/jrsssc/qlaf043/8236692). Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston and David Sirl. _Journal of the Royal Statistical Society: Series C_, (2025).
 
 Producing accurate estimates of deprivation in urban areas is challenging, particularly in areas where traditional census or household survey data is unavailable or difficult to obtain, or where the urban environment is rapidly changing. We here combine novel, more readily available forms of data -- satellite imagery and mobile phone data -- for the city of Dar es Salaam, Tanzania. We use dimension reduction techniques to identify low-dimensional structure within the dataset, and to produce deprivation estimates for sub-divisions within the city.
 
-### Word embeddings
+## Word embeddings
 
 [Invariance and identifiability issues for word embeddings](https://proceedings.neurips.cc/paper/2019/file/44885837c518b06e3f98b41ab8cedc0f-Paper.pdf) 
 Rachel Carrington, Karthik Bharath and Simon Preston. _Advances in Neural Information Processing Systems (NEURIPS)_, 32. (2019).
