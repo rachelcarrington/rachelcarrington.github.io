@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Associate in Statistics at the University of Bath, where I am part of the [Centre of Excellence in Water-Based Early Warning Systems for Health Protection (CWBE)](https://cwbe.ac.uk/).
+I am currently a Research Associate in Statistics at the University of Bath, where I am part of the [Centre of Excellence in Water-Based Early Warning Systems for Health Protection (CWBE)](https://cwbe.ac.uk/). My current research focuses on statistics for wastewater-based epidemiology, investigating questions such as:
+
+* How can we identify sources of variability in measurements of pathogens and chemicals in wastewater data, to help obtain more accurate estimates of their prevalences?
+* How should non-detects in wastewater analysis be handled?
+* Can we use wastewater analysis to detect changes in the trend of a disease, and predict future trajectories?
 
 Previously, I worked with Paul Fearnhead at Lancaster University on post-selection inference for changepoint models. This involved adapting existing methods to obtain greater power in detecting changes, and developing methods for post-selection inference in the piecewise constant variable model.
 
@@ -17,14 +21,14 @@ I obtained my MMath and PhD from the University of Nottingham, the latter under 
 Contact: rjc204 (at) bath.ac.uk
 
 ## Research Interests
-- Wastewater epidemiology
+- Wastewater-based epidemiology
 - Changepoint detection
 - High-dimensional data
 - Post-selection inference
 
 For more details about my research and publications, click on the "Research" tab above.
 
-## Publications
+## Recent Publications
 
 **Urban mapping in Dar es Salaam using Angle-Based Joint and Individual Variation Explained**. Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston, and David Sirl (2025). *Journal of the Royal Statistical Society: Series C -- Applied Statistics*. [link](https://academic.oup.com/jrsssc/advance-article/doi/10.1093/jrsssc/qlaf043/8236692)
 
