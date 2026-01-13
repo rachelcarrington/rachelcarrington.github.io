@@ -20,11 +20,11 @@ In this paper, we consider the univariate piecewise constant mean model. We exte
 
 The piecewise constant variable model is more challenging, as it is not possible in many cases to calculate exact p-values. We develop here two methods for constructing p-values for detected changes in variance, which are applicable to different types of changepoint algorithms. When the p-values cannot be explicitly calculated, we make use of Gaussian process methods to approximate them.
 
-[GitHub package related to these two papers](https://github.com/rachelcarrington/changepointsPSI).
+[R package related to these two papers](https://github.com/rachelcarrington/changepointsPSI).
 
 ## Urban mapping using AJIVE
 
-[Urban mapping in Dar es Salaam using Angle-Based Joint and Individual Variation Explained](https://academic.oup.com/jrsssc/advance-article/doi/10.1093/jrsssc/qlaf043/8236692). Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston and David Sirl. _Journal of the Royal Statistical Society: Series C_, (2025).
+[Urban mapping in Dar es Salaam using Angle-Based Joint and Individual Variation Explained](https://academic.oup.com/jrsssc/article/75/1/247/8236692). Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston and David Sirl. _Journal of the Royal Statistical Society: Series C_ 75(1), (2026).
 
 Producing accurate estimates of deprivation in urban areas is challenging, particularly in areas where traditional census or household survey data is unavailable or difficult to obtain, or where the urban environment is rapidly changing. We here combine novel, more readily available forms of data -- satellite imagery and mobile phone data -- for the city of Dar es Salaam, Tanzania. We use dimension reduction techniques to identify low-dimensional structure within the dataset, and to produce deprivation estimates for sub-divisions within the city.
 
