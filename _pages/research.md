@@ -28,9 +28,11 @@ The piecewise constant variable model is more challenging, as it is not possible
 
 Producing accurate estimates of deprivation in urban areas is challenging, particularly in areas where traditional census or household survey data is unavailable or difficult to obtain, or where the urban environment is rapidly changing. We here combine novel, more readily available forms of data -- satellite imagery and mobile phone data -- for the city of Dar es Salaam, Tanzania. We use dimension reduction techniques to identify low-dimensional structure within the dataset, and to produce deprivation estimates for sub-divisions within the city.
 
+The related GitHub repository can be accessed [here](https://github.com/rachelcarrington/ajive-dar-es-salaam).
+
 ## Word embeddings
 
-[Invariance and identifiability issues for word embeddings](https://proceedings.neurips.cc/paper/2019/file/44885837c518b06e3f98b41ab8cedc0f-Paper.pdf) 
+[Invariance and identifiability issues for word embeddings](https://proceedings.neurips.cc/paper/2019/file/44885837c518b06e3f98b41ab8cedc0f-Paper.pdf). 
 Rachel Carrington, Karthik Bharath and Simon Preston. _Advances in Neural Information Processing Systems (NEURIPS)_, 32. (2019).
 
 My PhD thesis can be accessed here: [Mathematical Aspects of Word Embeddings](https://eprints.nottingham.ac.uk/65089/)
