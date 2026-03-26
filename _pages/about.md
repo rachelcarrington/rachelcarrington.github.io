@@ -34,10 +34,10 @@ For more details about my research and publications, click on the "Research" tab
 
 **Improving power by conditioning on less in post-selection inference for changepoints**. Rachel Carrington and Paul Fearnhead (2025). *Statistics and Computing* 35(8). [link](https://link.springer.com/article/10.1007/s11222-024-10542-1)
 
-More on the [Research](https://rachelcarrington.github.io/research/) tab.
+More details on the [Research](https://rachelcarrington.github.io/research/) tab.
 
 ## Preprints
 
-**Post-selection inference for quantifying uncertainty in changes in variance**. Rachel Carrington and Paul Fearnhead. Under review. *arXiv preprint*. [link](https://arxiv.org/abs/2405.15670)
+**Post-selection inference for quantifying uncertainty in changes in variance**. Rachel Carrington and Paul Fearnhead. *arXiv preprint*. [link](https://arxiv.org/abs/2405.15670)
 
 
