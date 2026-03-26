@@ -34,8 +34,7 @@ For more details about my research and publications, click on the "Research" tab
 
 **Improving power by conditioning on less in post-selection inference for changepoints**. Rachel Carrington and Paul Fearnhead (2025). *Statistics and Computing* 35(8). [link](https://link.springer.com/article/10.1007/s11222-024-10542-1)
 
-**Invariance and identifiability issues for word embeddings**. Rachel Carrington, Karthik Bharath and Simon Preston (2019). *Advances in Neural Information Processing Systems (NEURIPS) 32*.
-[link](https://proceedings.neurips.cc/paper/2019/file/44885837c518b06e3f98b41ab8cedc0f-Paper.pdf)
+More on the [Research](https://rachelcarrington.github.io/research/) tab.
 
 ## Preprints
 
