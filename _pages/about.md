@@ -30,14 +30,13 @@ For more details about my research and publications, click on the "Research" tab
 
 ## Recent Publications
 
+**Post-selection inference for quantifying uncertainty in changes in variance**. Rachel Carrington and Paul Fearnhead. To appear in *Statistics and Computing*. [arXiv link](https://arxiv.org/abs/2405.15670)
+
 **Urban mapping in Dar es Salaam using Angle-Based Joint and Individual Variation Explained**. Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston, and David Sirl (2026). *Journal of the Royal Statistical Society: Series C -- Applied Statistics* 75(1). [link](https://academic.oup.com/jrsssc/article/75/1/247/8236692)
 
 **Improving power by conditioning on less in post-selection inference for changepoints**. Rachel Carrington and Paul Fearnhead (2025). *Statistics and Computing* 35(8). [link](https://link.springer.com/article/10.1007/s11222-024-10542-1)
 
 More details on the [Research](https://rachelcarrington.github.io/research/) tab.
 
-## Preprints
-
-**Post-selection inference for quantifying uncertainty in changes in variance**. Rachel Carrington and Paul Fearnhead. *arXiv preprint*. [link](https://arxiv.org/abs/2405.15670)
 
 
