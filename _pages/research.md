@@ -16,7 +16,7 @@ Rachel Carrington and Paul Fearnhead. _Statistics and Computing_ 35(8), (2025).
 
 In this paper, we consider the univariate piecewise constant mean model. We extend existing methods by showing how we can use Monte Carlo sampling to obtain p-values for detected changepoints that have greater power than those generated using existing methods, whilst still being uniform under the null hypothesis.
 
-[Post-selection inference for quantifying uncertainty in changes in variance](https://arxiv.org/pdf/2405.15670). Rachel Carrington and Paul Feanhead. _arXiv preprint arXiv:2405.15670_, (2024).
+[Post-selection inference for quantifying uncertainty in changes in variance](https://link.springer.com/article/10.1007/s11222-026-10881-1). Rachel Carrington and Paul Feanhead. _Statistics and Computing_ 36(128), (2026).
 
 The piecewise constant variable model is more challenging, as it is not possible in many cases to calculate exact p-values. We develop here two methods for constructing p-values for detected changes in variance, which are applicable to different types of changepoint algorithms. When the p-values cannot be explicitly calculated, we make use of Gaussian process methods to approximate them.
 
