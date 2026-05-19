@@ -14,19 +14,19 @@ Uncertainty quantification in detected changepoints is an important problem: giv
 [Improving Power by Conditioning on Less in Post-selection Inference for Changepoints](https://link.springer.com/article/10.1007/s11222-024-10542-1).
 Rachel Carrington and Paul Fearnhead. _Statistics and Computing_ 35(8), (2025).
 
-In this paper, we consider the univariate piecewise constant mean model. We extend existing methods by showing how we can use Monte Carlo sampling to obtain p-values for detected changepoints that have greater power than those generated using existing methods, whilst still being uniform under the null hypothesis.
+In the above paper, we consider the univariate piecewise constant mean model. We extend existing methods by showing how we can use Monte Carlo sampling to obtain p-values for detected changepoints that have greater power than those generated using existing methods, whilst still being uniform under the null hypothesis.
 
 [Post-selection inference for quantifying uncertainty in changes in variance](https://link.springer.com/article/10.1007/s11222-026-10881-1). Rachel Carrington and Paul Feanhead. _Statistics and Computing_ 36(128), (2026).
 
-The piecewise constant variable model is more challenging, as it is not possible in many cases to calculate exact p-values. We develop here two methods for constructing p-values for detected changes in variance, which are applicable to different types of changepoint algorithms. When the p-values cannot be explicitly calculated, we make use of Gaussian process methods to approximate them.
+The piecewise constant variance model is more challenging, as it is not possible in many cases to calculate exact p-values. We develop here two methods for constructing p-values for detected changes in variance, which are applicable to different types of changepoint algorithms. When the p-values cannot be explicitly calculated, we make use of Gaussian process methods to approximate them.
 
-[R package related to these two papers](https://github.com/rachelcarrington/changepointsPSI).
+[R package related to these two papers (on GitHub)](https://github.com/rachelcarrington/changepointsPSI).
 
-## Urban mapping using AJIVE
+## Urban mapping using multiple data sources
 
 [Urban mapping in Dar es Salaam using Angle-Based Joint and Individual Variation Explained](https://academic.oup.com/jrsssc/article/75/1/247/8236692). Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston and David Sirl. _Journal of the Royal Statistical Society: Series C_ 75(1), (2026).
 
-Producing accurate estimates of deprivation in urban areas is challenging, particularly in areas where traditional census or household survey data is unavailable or difficult to obtain, or where the urban environment is rapidly changing. We here combine novel, more readily available forms of data -- satellite imagery and mobile phone data -- for the city of Dar es Salaam, Tanzania. We use dimension reduction techniques to identify low-dimensional structure within the dataset, and to produce deprivation estimates for sub-divisions within the city.
+Producing accurate estimates of deprivation in urban areas is challenging, particularly in areas where traditional census or household survey data is unavailable or difficult to obtain, or where the urban environment is rapidly changing. We here combine novel forms of data, which are more readily available --- satellite imagery and mobile phone data --- for the city of Dar es Salaam, Tanzania. We use dimension reduction techniques to identify low-dimensional structure within the dataset, and to produce deprivation estimates for sub-divisions within the city.
 
 The related GitHub repository can be accessed [here](https://github.com/rachelcarrington/ajive-dar-es-salaam).
 
