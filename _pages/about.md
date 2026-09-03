@@ -21,10 +21,12 @@ I obtained my MMath and PhD from the University of Nottingham, the latter under 
 Contact: rjc204 (at) bath.ac.uk
 
 ## Research Interests
+- Environmental statistics
 - Wastewater-based epidemiology
-- Changepoint detection
-- High-dimensional data
+- Dimension reduction
+- Time series and changepoint detection
 - Post-selection inference
+- Changepoint detection
 
 For more details about my research and publications, click on the "Research" tab above.
 
