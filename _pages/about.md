@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate in Statistics at the University of Bath, where I am part of the [Centre of Excellence in Water-Based Early Warning Systems for Health Protection (CWBE)](https://cwbe.ac.uk/). My current research focuses on applying statistics to wastewater-based epidemiology.
+I am a Research Associate in Statistics at the University of Bath. I am interested in using statistics to solve real-world problems, with particular interest in environmental and health applications. My research interests include changepoint analysis, dimension reduction, and Bayesian modelling.
 
-I have also worked on post-selection inference for changepoint models (with Paul Fearnhead at Lancaster University). This involved adapting existing methods to obtain greater power in detecting changes, and developing methods for post-selection inference in the piecewise constant variable model.
+My current research, as part of the [Centre of Excellence in Water-Based Early Warning Systems for Health Protection (CWBE)](https://cwbe.ac.uk/), focuses on statistics for wastewater-based epidemiology, in collaboration with colleagues in chemistry, life sciences, psychology and engineering.
+
+I have previously worked on projects including post-selection inference for changepoint detection, and mapping urban deprivation using multiple data sources. More details can be found under the [Research](https://rachelcarrington.github.io/research/) tab.
 
 Contact: rjc204 (at) bath.ac.uk
-
-For more details about my research and publications, click on the "Research" tab above.
 
 ## Recent Publications
 
@@ -23,8 +23,4 @@ For more details about my research and publications, click on the "Research" tab
 **Urban mapping in Dar es Salaam using Angle-Based Joint and Individual Variation Explained**. Rachel Carrington, Ian Dryden, Madeleine Ellis, James Goulding, Simon Preston, and David Sirl (2026). *Journal of the Royal Statistical Society: Series C -- Applied Statistics* 75(1). [link](https://academic.oup.com/jrsssc/article/75/1/247/8236692)
 
 **Improving power by conditioning on less in post-selection inference for changepoints**. Rachel Carrington and Paul Fearnhead (2025). *Statistics and Computing* 35(8). [link](https://link.springer.com/article/10.1007/s11222-024-10542-1)
-
-More details on the [Research](https://rachelcarrington.github.io/research/) tab.
-
-
 
