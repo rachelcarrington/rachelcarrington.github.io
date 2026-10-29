@@ -1,10 +1,7 @@
 ---
 permalink: /teaching/
-title: "Teaching Experience"
+title: "Teaching"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /teaching.html
 ---
 
 # Tutorials
