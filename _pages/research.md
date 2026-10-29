@@ -38,5 +38,3 @@ The related GitHub repository can be accessed [here](https://github.com/rachelca
 
 [Invariance and identifiability issues for word embeddings](https://proceedings.neurips.cc/paper/2019/file/44885837c518b06e3f98b41ab8cedc0f-Paper.pdf). 
 Rachel Carrington, Karthik Bharath and Simon Preston. _Advances in Neural Information Processing Systems (NEURIPS)_, 32. (2019).
-
-My PhD thesis can be accessed here: [Mathematical Aspects of Word Embeddings](https://eprints.nottingham.ac.uk/65089/)
