@@ -7,10 +7,19 @@ redirect_from:
   - /teaching.html
 ---
 
-I have assisted with problems classes and computer classes for the following modules:
-* G11PRB Probability
-* G11STA Statistics
-* G12SMM Statistical Models and Methods
-* G14SML Statistical Machine Learning
-* G14FOS Fundamentals of Statistics
- 
+# Tutorials
+
+2025-26 
+- Probability & Statistics 1a
+
+# Demonstrating
+
+During my PhD I was a demonstrator (GTA) on the following modules:
+* Probability (1st year undergraduate)
+* Statistics (1st year undergraduate)
+* Statistical Models and Methods (2nd year undergraduate)
+* Statistical Machine Learning (MSc)
+* Fundamentals of Statistics (MSc)
+
+I also led tutorials for:
+* Probability Models and Methods (2nd year undergraduate)
