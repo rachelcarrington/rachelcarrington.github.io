@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Research Associate in Statistics at the University of Bath. I am interested in using statistics to solve real-world problems, with particular interest in environmental and health applications. My research interests include changepoint analysis, dimension reduction, and Bayesian modelling.
 
-My current research, as part of the [Centre of Excellence in Water-Based Early Warning Systems for Health Protection (CWBE)](https://cwbe.ac.uk/), focuses on statistics for wastewater-based epidemiology, in collaboration with colleagues in chemistry, life sciences, psychology and engineering.
+My current research, as part of the Centre of Excellence in Water-Based Early Warning Systems for Health Protection [(CWBE)](https://cwbe.ac.uk/), focuses on statistics for wastewater-based epidemiology, in collaboration with colleagues in chemistry, life sciences, psychology and engineering.
 
 I have previously worked on projects including post-selection inference for changepoint detection, and mapping urban deprivation using multiple data sources. More details can be found under the [Research](https://rachelcarrington.github.io/research/) tab.
 
