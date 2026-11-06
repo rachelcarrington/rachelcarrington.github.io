@@ -4,19 +4,19 @@ title: "Teaching"
 author_profile: true
 ---
 
-# Tutorials
+### University of Bath, 2025-26 
 
-2025-26 
-- Probability & Statistics 1a
+Tutorials:
+- Probability & Statistics 1a (Year 1)
 
-# Demonstrating
+### University of Nottingham, 2017-19
 
-During my PhD I was a demonstrator (GTA) on the following modules:
-* Probability (1st year undergraduate)
-* Statistics (1st year undergraduate)
-* Statistical Models and Methods (2nd year undergraduate)
+Problem classes & computer classes:
+* Probability (Year 1)
+* Statistics (Year 1)
+* Statistical Models and Methods (Year 2)
 * Statistical Machine Learning (MSc)
 * Fundamentals of Statistics (MSc)
 
-I also led tutorials for:
-* Probability Models and Methods (2nd year undergraduate)
+Tutorials:
+* Probability Models and Methods (Year 2)
