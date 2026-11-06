@@ -9,7 +9,9 @@ redirect_from:
 
 ## Post-selection inference for changepoint detection
 
-Changepoint detection is the problem of detecting a change in time series (or other ordered) data. Commonly we are interested in changes in the mean or variance, although other types of changepoints may also be of interest. [This link](https://www.lancaster.ac.uk/~romano/teaching/2425MATH337/1_intro_cusum.html) provides an introduction to detecting changes in the mean.
+Changepoint detection is the problem of detecting a change in time series (or other ordered) data. Commonly we are interested in changes in the mean or variance, although there are other types of changes that could also be detected. [This link](https://www.lancaster.ac.uk/~romano/teaching/2425MATH337/1_intro_cusum.html) provides an introduction to detecting changes in the mean.
+
+![Detecting changes in the mean.](/images/changepoint_example.svg)
 
 One important problem in changepoint analysis is uncertainty quantification. Suppose we have a time series and have applied a changepoint algorithm. We then want to know, how certain can we be that the detected changes are real? Naively, we can calculate the probability that the change in mean before and after a given point is greater than the one we observe. However, the locations we are choosing to test (i.e. the detected changes) were chosen using the data, and this means re-using the same data will give biased results (we will be more likely than we should be to conclude the change is real).
 
